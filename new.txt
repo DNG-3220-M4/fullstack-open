@@ -1,0 +1,3 @@
+hello this is some input
+after typing this in the next thing I did was hit "^X" exit and updated the buffer
+
